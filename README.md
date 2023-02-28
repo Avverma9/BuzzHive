@@ -43,6 +43,7 @@ JWT
 Socket.io
 Axios
 Material UI
-Contributors
+
+Contributors : -
 Prachi Sharma
 Ankush Rai
