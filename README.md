@@ -1,7 +1,9 @@
 BuzzHive
+
 BuzzHive is a social media web application that allows users to connect with each other by creating profiles, sharing posts, and commenting on each other's posts. BuzzHive is built using the MERN stack, which includes MongoDB, Express, React, and Node.js.
 
-Features
+Features : - 
+
 User registration and login
 User profile creation and customization
 Ability to create, edit, and delete posts
