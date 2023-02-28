@@ -11,7 +11,7 @@ Follow and unfollow users
 Real-time notifications for new posts and comments
 Responsive design for mobile and desktop screens
 Installation
-Clone the repository: git clone https://github.com/<your-username>/buzzhive.git
+Clone the repository: git clone https://github.com/Avverma9/BuzzHive
 Install dependencies in both the root folder and client folder:
 bash
 
